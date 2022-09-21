@@ -22,4 +22,4 @@ The simulation video
 
 ## Developer
 
-* Chetan Chand Chilakapati - s4850111@studenti.unige.it
+* srinivasan anbarasan seenu0613@outlook.com
